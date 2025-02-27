@@ -9,3 +9,5 @@ Herança: A classe base Flor contém atributos e métodos, como nome, habitat e 
 Polimorfismo: O método crescer() é sobrescrito para exibir como cada flor.
 
 Encapsulamento: As informações das flores são protegidas, sendo acessadas apenas pelo menu interativo.
+
+Este código foi implementado no VSCODE.
