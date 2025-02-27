@@ -1,4 +1,5 @@
-discentes Luis Joaquim 
+Discentes Luis Joaquim 
+
 O projeto desenvolvido tem como tema Flores e seus Tipos, abordando todos os pilares da Programação Orientada a Objetos (POO), como Herança, Polimorfismo e Encapsulamento.
 
 O objetivo é criar um sistema onde o usuário possa cadastrar flores de diferentes tipos, como Ornamentais, Medicinais e Exóticas, associando informações como habitat, fragrância e curiosidades.
