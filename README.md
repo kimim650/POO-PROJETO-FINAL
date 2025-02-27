@@ -1,5 +1,10 @@
-Esse código foi implementado no vs code
-a herança está nos arquivos ornamental.py,exótico.py e Medicinal.py que herdam a classe flor
-o polimorfismo muda o comportamento das plantas
-o enclausuramento proteje os dados já existentes 
-o código possui um menu interativo para adicionar ou retirar plantas, podendo listar na ordem que foi adicionado ou listar somente um as plantas de uma região específica
+discentes Luis Joaquim 
+O projeto desenvolvido tem como tema Flores e seus Tipos, abordando todos os pilares da Programação Orientada a Objetos (POO), como Herança, Polimorfismo e Encapsulamento.
+
+O objetivo é criar um sistema onde o usuário possa cadastrar flores de diferentes tipos, como Ornamentais, Medicinais e Exóticas, associando informações como habitat, fragrância e curiosidades.
+
+Herança: A classe base Flor contém atributos e métodos, como nome, habitat e fragrância. As classes Ornamental, Medicinal e Exótica herdam dessa classe.
+
+Polimorfismo: O método crescer() é sobrescrito para exibir como cada flor.
+
+Encapsulamento: As informações das flores são protegidas, sendo acessadas apenas pelo menu interativo.
